@@ -28,6 +28,7 @@ This tool allows a user to enter text and instantly generate a cryptographic has
 3. Click **Generate Hash**
 4. View the SHA-256 hash output
 
+Link file:///Users/tyleshaalexander/hash-generator-tool/index.html
 ## 📂 Project Structure
 ```bash
 Hash-Generator-Tool/
